@@ -92,7 +92,7 @@ Encodes an array of XY ordinates as an SVG `polygon`.
 
 ### svgText
 
-Encodes an array of XY ordinates as an SVG `polygon`.
+Positions a piece of textual `content` at location specified by `loc`.
 
 * `loc` - Point geometry giving location of text
 * `content` - text value
